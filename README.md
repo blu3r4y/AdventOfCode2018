@@ -4,6 +4,10 @@ My solutions for the [AoC 2018](https://adventofcode.com/2018) challenges, writt
 
 :christmas_tree: :christmas_tree: :christmas_tree:
 
+## Challenges
+
+- :snake: **[Day 1: Chronal Calibration](https://adventofcode.com/2018/day/1)** - [Python Solution](src/day1.py)
+
 ## Requirements
 
 ### Python 3.6
