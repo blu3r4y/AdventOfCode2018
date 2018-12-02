@@ -7,6 +7,7 @@ My solutions for the [AoC 2018](https://adventofcode.com/2018) challenges, writt
 ## Challenges
 
 - :snake: :gear: **[Day 1: Chronal Calibration](https://adventofcode.com/2018/day/1)** - [Python Solution](src/day1.py) - [Rust Solution](src/bin/day1.rs)
+- :snake: **[Day 2: Inventory Management System](https://adventofcode.com/2018/day/2)** - [Python Solution](src/day2.py)
 
 ## Requirements
 
