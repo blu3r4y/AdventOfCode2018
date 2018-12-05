@@ -10,6 +10,7 @@ My solutions for the [AoC 2018](https://adventofcode.com/2018) challenges, writt
 - :snake: **[Day 2: Inventory Management System](https://adventofcode.com/2018/day/2)** - [Python Solution](src/day2.py)
 - :snake: **[Day 3: No Matter How You Slice It](https://adventofcode.com/2018/day/3)** - [Python Solution](src/day3.py)
 - :snake: **[Day 4: Repose Record](https://adventofcode.com/2018/day/4)** - [Python Solution](src/day4.py)
+- :snake: **[Day 5: Alchemical Reduction](https://adventofcode.com/2018/day/4)** - [Python Solution](src/day5.py)
 
 ## Requirements
 
