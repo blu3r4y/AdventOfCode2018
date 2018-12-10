@@ -14,6 +14,7 @@ My solutions for the [AoC 2018](https://adventofcode.com/2018) challenges, writt
 - :snake: **[Day 6: Chronal Coordinates](https://adventofcode.com/2018/day/6)** - [Python Solution](src/day6.py)
 - :snake: **[Day 7: The Sum of Its Parts](https://adventofcode.com/2018/day/7)** - [Python Solution](src/day7.py)
 - :snake: **[Day 8: Memory Maneuver](https://adventofcode.com/2018/day/8)** - [Python Solution](src/day8.py)
+- :snake: **[Day 9: Marble Mania](https://adventofcode.com/2018/day/9)** - [Python Solution](src/day9.py)
 
 ## Requirements
 
