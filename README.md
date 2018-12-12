@@ -17,6 +17,7 @@ My solutions for the [AoC 2018](https://adventofcode.com/2018) challenges, writt
 - :snake: **[Day 9: Marble Mania](https://adventofcode.com/2018/day/9)** - [Python Solution](src/day9.py)
 - :snake: **[Day 10: The Stars Align](https://adventofcode.com/2018/day/10)** - [Python Solution](src/day10.py)
 - :snake: **[Day 11: Chronal Charge](https://adventofcode.com/2018/day/11)** - [Python Solution](src/day11.py)
+- :snake: **[Day 12: Subterranean Sustainability](https://adventofcode.com/2018/day/12)** - [Python Solution](src/day12.py)
 
 ## Requirements
 
