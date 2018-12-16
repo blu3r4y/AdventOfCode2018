@@ -21,6 +21,7 @@ My solutions for the [AoC 2018](https://adventofcode.com/2018) challenges, writt
 - :snake: **[Day 13: Mine Cart Madness](https://adventofcode.com/2018/day/13)** - [Python Solution](src/day13.py)
 - :snake: **[Day 14: Chocolate Charts](https://adventofcode.com/2018/day/14)** - [Python Solution](src/day14.py)
 - :snake: **[Day 15: Beverage Bandits](https://adventofcode.com/2018/day/15)** - [Python Solution](src/day15.py)
+- :snake: **[Day 16: Chronal Classification](https://adventofcode.com/2018/day/16)** - [Python Solution](src/day16.py)
 
 ## Requirements
 
