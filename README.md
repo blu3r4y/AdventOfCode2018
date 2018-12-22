@@ -26,7 +26,7 @@ My solutions for the [AoC 2018](https://adventofcode.com/2018) challenges, writt
 - :snake: **[Day 18: Settlers of The North Pole](https://adventofcode.com/2018/day/18)** - [Python Solution](src/day18.py)
 - :snake: **[Day 19: Go With The Flow](https://adventofcode.com/2018/day/19)** - [Python Solution](src/day19.py)
 - :snake: **[Day 20: A Regular Map](https://adventofcode.com/2018/day/20)** - [Python Solution](src/day20.py)
-- **[Day 21: Chronal Conversion](https://adventofcode.com/2018/day/21)**
+- :snake: **[Day 21: Chronal Conversion](https://adventofcode.com/2018/day/21)** - [Python Solution](src/day21.py)
 - :snake: **[Day 22: Mode Maze](https://adventofcode.com/2018/day/22)** - [Python Solution](src/day22.py)
 
 ## Requirements
