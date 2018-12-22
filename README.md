@@ -24,7 +24,7 @@ My solutions for the [AoC 2018](https://adventofcode.com/2018) challenges, writt
 - :snake: **[Day 16: Chronal Classification](https://adventofcode.com/2018/day/16)** - [Python Solution](src/day16.py)
 - :snake: **[Day 17: Reservoir Research](https://adventofcode.com/2018/day/17)** - [Python Solution](src/day17.py)
 - :snake: **[Day 18: Settlers of The North Pole](https://adventofcode.com/2018/day/18)** - [Python Solution](src/day18.py)
-- **[Day 19: Go With The Flow](https://adventofcode.com/2018/day/19)**
+- :snake: **[Day 19: Go With The Flow](https://adventofcode.com/2018/day/19)** - [Python Solution](src/day19.py)
 - :snake: **[Day 20: A Regular Map](https://adventofcode.com/2018/day/20)** - [Python Solution](src/day20.py)
 - **[Day 21: Chronal Conversion](https://adventofcode.com/2018/day/21)**
 - :snake: **[Day 22: Mode Maze](https://adventofcode.com/2018/day/22)** - [Python Solution](src/day22.py)
