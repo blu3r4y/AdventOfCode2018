@@ -29,6 +29,7 @@ My solutions for the [AoC 2018](https://adventofcode.com/2018) challenges, writt
 - :snake: **[Day 21: Chronal Conversion](https://adventofcode.com/2018/day/21)** - [Python Solution](src/day21.py)
 - :snake: **[Day 22: Mode Maze](https://adventofcode.com/2018/day/22)** - [Python Solution](src/day22.py)
 - :snake: **[Day 23: Experimental Emergency Teleportation](https://adventofcode.com/2018/day/23)** - [Python Solution](src/day23.py)
+- :snake: **[Day 24: Immune System Simulator 20XX](https://adventofcode.com/2018/day/24)** - [Python Solution](src/day24.py)
 
 ## Requirements
 
