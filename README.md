@@ -1,6 +1,6 @@
 # Advent of Code 2018
 
-My solutions for the [AoC 2018](https://adventofcode.com/2018) challenges, written in Python and Rust.
+My solutions for the [AoC 2018](https://adventofcode.com/2018) challenges, written in Python.
 
 :christmas_tree: :christmas_tree: :christmas_tree:
 
@@ -30,6 +30,7 @@ My solutions for the [AoC 2018](https://adventofcode.com/2018) challenges, writt
 - :snake: **[Day 22: Mode Maze](https://adventofcode.com/2018/day/22)** - [Python Solution](src/day22.py)
 - :snake: **[Day 23: Experimental Emergency Teleportation](https://adventofcode.com/2018/day/23)** - [Python Solution](src/day23.py)
 - :snake: **[Day 24: Immune System Simulator 20XX](https://adventofcode.com/2018/day/24)** - [Python Solution](src/day24.py)
+- :snake: **[Day 25: Four-Dimensional Adventure](https://adventofcode.com/2018/day/25)** - [Python Solution](src/day25.py)
 
 ## Requirements
 
